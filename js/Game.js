@@ -103,8 +103,8 @@ class Game {
   }
 
   end(){
-    console.log("Game Ended");
-    console.log("player rank "+player.rank);
+  
+    alert("You finsihed, your rank is :"+player.rank);
     
   }
 }
